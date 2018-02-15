@@ -12,4 +12,10 @@ I found it useful on a board where i want to have an option to:
 
 ### How it looks like on a PCB:
 
-![On PCB](http://)
+
+#### On PCB
+
+<img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/pcb.jpg" height="300" />
+
+#### In eagle
+<img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle1.png" height="300" />
