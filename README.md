@@ -19,3 +19,7 @@ I found it useful on a board where i want to have an option to:
 
 #### In eagle
 <img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle1.png" height="300" />
+
+#### In eagle cad board view
+<img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle2.png" height="300" />
+
