@@ -18,7 +18,7 @@ I found it useful on a board where i want to have an option to:
 <img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/pcb.jpg" height="300" />
 
 #### In eagle
-<img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle1.png" height="300" />
+<img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle1.png" height="150" />
 
 #### In eagle cad board view
 <img src="https://raw.githubusercontent.com/nardev/eagle3wayPCBpads/master/eagle2.png" height="300" />
